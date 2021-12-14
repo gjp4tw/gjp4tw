@@ -11,16 +11,9 @@
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCCINXbIoGFPM8nL-6Igavzg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/gjp4tw?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/gjp4tw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/gjp4tw/Simple-View-Counter">
+  <a href="https://github.com/gjp4tw/">
     <img alt="views" title="GitHub profile views" src="https://img.shields.io/badge/-100-red?color=484f58&label=Viewers&logo=github&logoColor=white&style=for-the-badge&labelColor=30363d"/></a>
 </p>
-
-
-
-
-
-
-
 
 
 <div width="100%">
