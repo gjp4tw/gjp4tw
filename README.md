@@ -11,22 +11,17 @@
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCCINXbIoGFPM8nL-6Igavzg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/gjp4tw?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/gjp4tw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/gjp4tw/">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=gjp4tw&color=484f58&label=Viewers&logo=github&logoColor=white&style=for-the-badge&labelColor=30363d"/></a>
 </p>
 
 
-<div width="100%">
+<div width="100%" align="center">
    <h2 align="center">⚡ Stats ⚡</h2>
-   <br>
-   <a align="" href="https://github.com/gjp4tw" title=""><img align="" height="160" src="https://github-readme-stats.vercel.app/api?username=gjp4tw&count_private=true&show_icons=true&theme=react&include_all_commits=true"></a>
-   <a align="" href="https://github.com/gjp4tw" title=""><img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjp4tw&layout=compact&theme=react&show_icons=true"></a>
+    <br>
+    <img align="center" src="https://leetcard.jacoblin.cool/gjp4_?theme=nord&font=Source%20Sans%20Pro&ext=contest">
 </div>
 <br/><br/>
 <div width="100%" align="center">
-   <p align="center"><img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=gjp4tw&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="gjp4tw" /></p>
-   <br/>
-   <p align="center"><img align="center" height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=gjp4tw&theme=react"/></p>
+   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gjp4tw&theme=react"/></p>
    <br/>
       <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
    <br/>
